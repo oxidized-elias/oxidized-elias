@@ -1,7 +1,8 @@
 ### Rundown:
 * Tech Student
-* Currently learning PCB creation
-
+* Trying to get into some form of engineering
+* I refuse to rely on big tech
+  
 ### Skills:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
