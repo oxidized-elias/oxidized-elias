@@ -2,6 +2,7 @@
 * Tech Student
 * Trying to get into some form of engineering
 * I refuse to rely on big tech
+* My ideas become apps through AI. Although I am still personally learning programing
   
 ### Skills:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
