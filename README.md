@@ -3,6 +3,7 @@
 * Trying to get into some form of engineering
 * I refuse to rely on big tech
 * My ideas become apps through AI. Although I am still personally learning programing
+  * Reasoning here: https://youtu.be/meBi616y1mg?si=OgNRqKEHTCpiiLrj&t=113 
   
 ### Skills:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
