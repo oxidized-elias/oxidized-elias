@@ -11,7 +11,7 @@
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javascript-EFD81D?style=for-the-badge&logo=javascript&logoColor=grey)
 ![linux](https://img.shields.io/badge/Linux-4B4B4B?style=for-the-badge&logo=Linux&logoColor=yellow)
-![ai](https://img.shields.io/badge/googlegemini-121d44?style=for-the-badge&logo=googlegemini&logoColor=red)
+![ai](https://img.shields.io/badge/AI-121d44?style=for-the-badge&logo=googlegemini&logoColor=red)
 
 ### Setup:
 ![OS](https://img.shields.io/badge/Arch%20Linux-0F94D2?style=for-the-badge&logo=archlinux&logoColor=white)
